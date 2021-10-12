@@ -1,2 +1,2 @@
 # rickandmorty
-<p>Aplicativo consumindo a API https://rickandmortyapi.com/</p>
+<p>Aplicação consumindo a API https://rickandmortyapi.com/</p>
